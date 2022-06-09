@@ -1,0 +1,27 @@
+/* 
+  Localizable.strings
+  ImageGallery
+
+  Created by Melvyn on 08/06/22.
+  
+*/
+
+// Titles
+
+"alert" = "Alert";
+"search" = "Search";
+"gallery" = "Gallery";
+
+
+// Error Messages
+"valid_keyword_search" = "Pls Enter Valid Keyword to Search";
+
+"parsing_failed" = "JSON Parsing Failed";
+
+"response_unsucessful" = "Response Unsucessful";
+
+"invalid_data" = "Invalid Data";
+
+"request_failed" = "Request Failed";
+
+"empty_response" = "Empty response";
