@@ -91,7 +91,6 @@
 		B15C40292852006F0012E81A /* AppCoordinator.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AppCoordinator.swift; sourceTree = "<group>"; };
 		B15C402D285201410012E81A /* Constants.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
 		B15C4030285201410012E81A /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Localizable.strings; sourceTree = "<group>"; };
-		B15C4031285201410012E81A /* en-GB */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "en-GB"; path = "en-GB.lproj/Localizable.strings"; sourceTree = "<group>"; };
 		B15C4035285202780012E81A /* MockNetworkManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MockNetworkManager.swift; sourceTree = "<group>"; };
 		B15C4036285202780012E81A /* MockImageNetworkManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MockImageNetworkManager.swift; sourceTree = "<group>"; };
 		B15C4038285202780012E81A /* invalid_search_response.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = invalid_search_response.json; sourceTree = "<group>"; };
@@ -367,7 +366,6 @@
 			knownRegions = (
 				en,
 				Base,
-				"en-GB",
 			);
 			mainGroup = B15C3FC72851F94A0012E81A;
 			productRefGroup = B15C3FD12851F94A0012E81A /* Products */;
@@ -496,7 +494,6 @@
 			isa = PBXVariantGroup;
 			children = (
 				B15C4030285201410012E81A /* en */,
-				B15C4031285201410012E81A /* en-GB */,
 			);
 			name = Localizable.strings;
 			sourceTree = "<group>";

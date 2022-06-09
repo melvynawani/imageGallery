@@ -2,7 +2,7 @@
 //  Constants.swift
 //  ImageGallery
 //
-//  Created by Khushboo on 26/05/22.
+//  Created by Melvyn Awani on 8/06/2022.
 //
 
 import Foundation
