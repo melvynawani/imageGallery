@@ -39,6 +39,7 @@
 		B15C403D285202780012E81A /* invalid_search_response.json in Resources */ = {isa = PBXBuildFile; fileRef = B15C4038285202780012E81A /* invalid_search_response.json */; };
 		B15C403E285202780012E81A /* invalid_keyword_search_response.json in Resources */ = {isa = PBXBuildFile; fileRef = B15C4039285202780012E81A /* invalid_keyword_search_response.json */; };
 		B15C403F285202780012E81A /* valid_keyword_search_response.json in Resources */ = {isa = PBXBuildFile; fileRef = B15C403A285202780012E81A /* valid_keyword_search_response.json */; };
+		B15C40432852047A0012E81A /* GalleryViewModelTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B15C40422852047A0012E81A /* GalleryViewModelTests.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -96,6 +97,7 @@
 		B15C4038285202780012E81A /* invalid_search_response.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = invalid_search_response.json; sourceTree = "<group>"; };
 		B15C4039285202780012E81A /* invalid_keyword_search_response.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = invalid_keyword_search_response.json; sourceTree = "<group>"; };
 		B15C403A285202780012E81A /* valid_keyword_search_response.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = valid_keyword_search_response.json; sourceTree = "<group>"; };
+		B15C40422852047A0012E81A /* GalleryViewModelTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GalleryViewModelTests.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -163,6 +165,7 @@
 			children = (
 				B15C4034285202780012E81A /* Mock */,
 				B15C3FEA2851F94B0012E81A /* SearchViewModelTests.swift */,
+				B15C40422852047A0012E81A /* GalleryViewModelTests.swift */,
 			);
 			path = ImageGalleryTests;
 			sourceTree = "<group>";
@@ -442,6 +445,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B15C403C285202780012E81A /* MockImageNetworkManager.swift in Sources */,
+				B15C40432852047A0012E81A /* GalleryViewModelTests.swift in Sources */,
 				B15C403B285202780012E81A /* MockNetworkManager.swift in Sources */,
 				B15C3FEB2851F94B0012E81A /* SearchViewModelTests.swift in Sources */,
 			);
